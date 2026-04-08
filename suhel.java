@@ -1,0 +1,5 @@
+class Suhel{
+	void mym(){
+        
+    }
+}
